@@ -2,7 +2,7 @@
 it's just for testing purporse
 
 
-##What is Lorem ipsum?
+#What is Lorem ipsum?
 
 A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.
 
